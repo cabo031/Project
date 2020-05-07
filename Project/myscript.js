@@ -117,6 +117,4 @@ $(".board button").on("click",function(){
     currentColor = player2Color;
 
   }
-
-
 })
